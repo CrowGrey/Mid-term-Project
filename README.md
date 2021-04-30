@@ -13,8 +13,9 @@
 Go check them out if you don't have them locally installed.
 
 ## Dataset
+You can download the Pascal VOC2012 to the data directory.
 
-
+[Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
 
 ## Quick Start
 
