@@ -17,9 +17,7 @@ All packages are on display in the first code block of the file [main.ipynb](mai
 Go check them out if you don't have them locally installed.
 
 ## Dataset
-You can download the Pascal VOC2012 to the data directory.
-
-[Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
+You can download the [Pascal VOC2012](http://host.robots.ox.ac.uk/pascal/VOC/) to the data directory.
 
 ## Quick Start
 
