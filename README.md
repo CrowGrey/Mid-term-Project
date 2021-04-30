@@ -1,5 +1,4 @@
 # Mid-term Project
-# 
 
 [toc]
 
