@@ -1,7 +1,5 @@
 # Mid-term Project
 
-[toc]
-
 ## Environment
 
 + Windows 10
